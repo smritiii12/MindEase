@@ -1,0 +1,75 @@
+Date: Sat Jul  5 12:03:42 2025
+Text: Feeling low about studies today
+Trigger: Overthinking
+Emotions: Sad(6) Worried(8) 
+---
+Date: Sat Jul  5 12:03:42 2025
+Text: " I am stressed about exams"
+Trigger: Anxious
+Emotions: Sad(2) Stressed(1) Unable(1) 
+---
+Date: Sat Jul  5 12:03:42 2025
+Text: "I am not feeling good"
+Trigger: Sadness
+Emotions: Crying(2) Bad(1) 
+---
+Date: Sat Jul  5 12:04:33 2025
+Text: I am not feeling good
+Trigger: Sadness
+Emotions: Crying(8) Unable(5) 
+---
+Date: Sat Jul  5 12:21:44 2025
+Text: I feel anxious about tomorrow's exam
+Trigger: Overthinking
+Emotions: (8) Nervous(6) 
+---
+Date: Sat Jul  5 12:33:45 2025
+Text: Lately I've been feeling very demotivated and just want to give up on everything.
+Trigger: Not seeing any progress in my efforts.
+Emotions: Demotivated(7) Hopeless(6) 
+---
+Date: Sat Jul  5 20:23:19 2025
+Text: I am hero
+Trigger: Confident
+Emotions: Smart(8) Courageous(8) 
+---
+Date: Fri Jul 18 11:36:11 2025
+Text: I am Happy
+Trigger: Joy
+Emotions: JOy(8) Happiness(9) Smiley(7) 
+---
+Date: Wed Jul 23 13:44:01 2025
+Text: i am sad
+Trigger: sadness
+Emotions: sad(4) cry(5) 4(6) 4(6) 5(5) 6(5) 
+---
+Date: Sat Jul 26 16:22:49 2025
+Text: I am Happy
+Trigger: Joy
+Emotions: Smile(8) Joy(7) 
+---
+Date: Sat Jul 26 16:25:25 2025
+Text: I am sad
+Trigger: Sadness
+Emotions: Crying(4) Sadness(8) 
+---
+Date: Wed Jul 30 14:55:51 2025
+Text: I am good
+Trigger: Positivity
+Emotions: positive(9) Calm(6) 
+---
+Date: Sat Aug  2 09:35:47 2025
+Text: I am sad
+Trigger: Sadness
+Emotions: SAD(8) Crying(8) 
+---
+Date: Mon Sep  1 20:38:00 2025
+Text: I am happy
+Trigger: joy
+Emotions: joy(5) smrile(8) 
+---
+Date: Thu Sep 18 17:01:40 2025
+Text: I am sad
+Trigger: sad
+Emotions: sadness(8) Cry(8) 
+---

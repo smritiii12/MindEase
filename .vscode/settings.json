@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "g++ path"
+    ],
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true
+}
